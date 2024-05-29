@@ -877,10 +877,6 @@ video {
   font-weight: 600;
 }
 
-.text-skin-primary {
-  color: var(--primary);
-}
-
 .text-slate-300 {
   --tw-text-opacity: 1;
   color: rgb(203 213 225 / var(--tw-text-opacity));
